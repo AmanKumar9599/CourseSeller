@@ -1,0 +1,19 @@
+.body{
+    height: 270px;
+    width: 20%;
+    background-color: rgb(23, 22, 22);
+    color: white;
+    border-radius: 20px;
+}
+img{
+    padding: 2%;
+    height: 40%;
+    width: 95%;
+    border-radius: 25px;
+}
+.title{
+    padding-left: 2%;
+}
+.desc{
+    padding-left: 2%;
+}

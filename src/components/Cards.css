@@ -1,0 +1,9 @@
+.Card{
+    min-height: 100vh;
+display: flex;
+flex-wrap: wrap;
+column-gap: 5%;
+row-gap: 20px;
+justify-content: center;
+background-color: rgb(46, 45, 45);
+}
